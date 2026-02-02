@@ -2,6 +2,10 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+### Prerequisites
+- Node.js installed
+- MongoDB Database
+
 About This Course:
 
 - 🔧 Backend Setup
