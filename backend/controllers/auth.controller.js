@@ -1,3 +1,8 @@
+/**
+ * Authentication Controllers
+ * Contains signup, login, logout, verification and password recovery handlers
+ */
+
 import bcryptjs from "bcryptjs";
 import crypto from "crypto";
 
