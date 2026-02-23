@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+// connectDB handles the connection to MongoDB and handles connection errors
 export const connectDB = async () => {
 	try {
 		console.log("mongo_uri: ", process.env.MONGO_URI);
