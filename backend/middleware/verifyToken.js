@@ -1,3 +1,4 @@
+// verifyToken middleware validates the JWT in the incoming cookies
 import jwt from "jsonwebtoken";
 
 export const verifyToken = (req, res, next) => {
