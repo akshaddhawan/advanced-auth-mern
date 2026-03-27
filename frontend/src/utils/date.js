@@ -1,3 +1,4 @@
+// formatDate converts an ISO date string to a localized readable date
 export const formatDate = (dateString) => {
 	const date = new Date(dateString);
 	if (isNaN(date.getTime())) {
