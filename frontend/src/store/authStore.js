@@ -1,3 +1,4 @@
+// authStore holds the centralized authentication state for the React app
 import { create } from "zustand";
 import axios from "axios";
 
