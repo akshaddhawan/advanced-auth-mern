@@ -25,6 +25,7 @@ const PasswordCriteria = ({ password }) => {
 	);
 };
 
+// PasswordStrengthMeter displays visual feedback based on complexity rules
 const PasswordStrengthMeter = ({ password }) => {
 	const getStrength = (pass) => {
 		let strength = 0;
