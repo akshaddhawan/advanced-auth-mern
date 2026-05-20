@@ -6,6 +6,7 @@ import { Link, useNavigate } from "react-router-dom";
 import PasswordStrengthMeter from "../components/PasswordStrengthMeter";
 import { useAuthStore } from "../store/authStore";
 
+// SignUpPage handles user registration input and sends requests to the backend API
 const SignUpPage = () => {
 	const [name, setName] = useState("");
 	const [email, setEmail] = useState("");
