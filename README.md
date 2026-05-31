@@ -1,10 +1,6 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced Auth 🔒 </h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
-
-### Prerequisites
-- Node.js installed
-- MongoDB Database
 
 About This Course:
 
@@ -43,17 +39,3 @@ MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 
 CLIENT_URL= http://localhost:5173
 ```
-
-### Run this app locally
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm run start
-```
-
-### I'll see you in the next one! 🚀
